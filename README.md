@@ -1,4 +1,4 @@
-# Descripción#
+# Descripción
 Este proyecto es una aplicación backend construida con Spring Boot que tiene como objetivo gestionar libros de una biblioteca en línea. Utiliza una base de datos para almacenar información de los libros, como el título, autor, idioma, y número de descargas. La aplicación proporciona una API RESTful que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los libros, además de ofrecer consultas específicas como buscar libros por idioma o por título.
 
 El proyecto está diseñado para ser escalable, eficiente y fácil de mantener, utilizando prácticas estándar de desarrollo de software y herramientas como Spring Data JPA para interactuar con la base de datos, HikariCP para la gestión de conexiones de base de datos, y Hibernate para la persistencia de objetos Java en la base de datos.
